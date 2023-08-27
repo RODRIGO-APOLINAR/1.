@@ -11,7 +11,7 @@ Turing tiene un extenso legado con estatuas y muchas cosas que llevan su nombre,
 [![Cam-Scanner-26-08-2023-17-07-1.jpg](https://i.postimg.cc/mDMdCqGv/Cam-Scanner-26-08-2023-17-07-1.jpg)](https://postimg.cc/VrfBcKvg)
 
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ptc4Awb0UpU?si=vAXMBZv8ZZR4DVxD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 
