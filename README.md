@@ -9,3 +9,12 @@ La carrera de Turing terminó súbitamente tras ser procesado por homosexualidad
 Turing tiene un extenso legado con estatuas y muchas cosas que llevan su nombre, incluido un premio anual por innovación en informática. Aparece en el billete actual de 50 libras del Banco de Inglaterra,8​ que se lanzó el 23 de junio de 2021, coincidiendo con su cumpleaños. Un programa de la BBC de 2019, votado por la audiencia, lo nombró la persona más grande del siglo xx.# 1.
 
 [![Cam-Scanner-26-08-2023-17-07-1.jpg](https://i.postimg.cc/mDMdCqGv/Cam-Scanner-26-08-2023-17-07-1.jpg)](https://postimg.cc/VrfBcKvg)
+
+
+
+
+
+
+https://streamable.com/huuhzk
+
+
