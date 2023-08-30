@@ -1,4 +1,21 @@
 
+
+
+
+
+
+**CORREO ELECTRONICO
+
+[csh2232016761@IZT.uam.mx](mailto:csh2232016761@IZT.uam.mx)
+
+
+
+
+
+
+
+
+
 <img src="https://github.com/RODRIGO-APOLINAR/1./blob/main/d.jpg" alt="d" width="PORCENTAJE DE ANCHO %100"/>
 
 
