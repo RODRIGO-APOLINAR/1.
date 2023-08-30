@@ -1,5 +1,5 @@
 
-<img src="https://github.com/RODRIGO-APOLINAR/tareas/tree/main/imagenes#readme" alt="sin titulo.jpg" width="PORCENTAJE DE ANCHO %100"/>
+<img src="   "  " width="PORCENTAJE DE ANCHO %100"/>
 
 Es considerado como uno de los padres de la ciencia de la computación y precursor de la informática moderna. Proporcionó una formalización influyente de los conceptos de algoritmo y computación: la máquina de Turing. Formuló su propia versión que hoy es ampliamente aceptada como la tesis de Church-Turing (1936).
 
