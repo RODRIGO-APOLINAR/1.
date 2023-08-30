@@ -16,7 +16,7 @@
 
 
 
-<img src="https://github.com/RODRIGO-APOLINAR/1./blob/main/d.jpg" alt="d" width="PORCENTAJE DE ANCHO %20.0"/>
+<img src="https://github.com/RODRIGO-APOLINAR/1./blob/main/d.jpg" alt="d" width="PORCENTAJE DE ANCHO %"/>
 
 
 
