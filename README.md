@@ -1,4 +1,42 @@
 
+
+
+Leer A
+Sí (A= “E”) entonces
+n= 20
+Fin_ sí
+Sí no sí (A=”J”) entonces
+n= 15
+Fin_ sí
+Sí no sí (A=”C”)
+n=40
+Fin_ sí
+Sí no
+Escribir “Animal no reconocido”
+Fin_ sí
+Para i=1 hasta i=n hacer
+Leer edad
+Sí (edad>=0 y edad<= 1) entonces
+k= k+1
+Fin_ sí
+Sí no sí (edad>1 y edad <3) entonces
+l= l+1
+Fin_ sí
+Sí no sí (edad>=3) entonces
+p= p+1
+Fin_ sí
+Escribir k*100/n
+              l*100/n
+              p*100/n
+FIN
+
+
+
+
+
+
+
+
 https://docs.google.com/document/d/1J3xbgeuMYvQ2RFirpRasOJjox989LnqnvtQViNN0Va8/edit?usp=sharing
 
 
