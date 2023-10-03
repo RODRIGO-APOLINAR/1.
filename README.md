@@ -1,4 +1,25 @@
 
+
+generalmente, una colección de objetos,
+como archivos de texto, almacenados como una unidad; en un Unix
+entorno, a menudo llamado biblioteca de archivos o
+simplemente una biblioteca, una colección de funciones ejecutables (en formato de código objeto) almacenadas en un solo
+archivo adecuado para vincular a un programa ejecutable; a menudo contiene un grupo de funciones relacionadas que proporcionan un conjunto de programación reutilizable
+utilidades.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 http://virtuami.izt.uam.mx/aulas/avmacca/
 
 
